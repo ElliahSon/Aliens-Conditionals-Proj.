@@ -6,7 +6,7 @@ var y = 1501;
 
 //Blue Alien
 var z = 1999;
-var warning;
+
 function meanMachine (green, red, blue) {
   if ((x + y + z) == 10000) {
       console.log("There is 10,000 aliens.");
